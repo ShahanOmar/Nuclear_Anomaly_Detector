@@ -1,0 +1,6 @@
+,precision,precision,recall,recall,f1,f1,false_alarm_rate,false_alarm_rate,false_alarms_per_hour,false_alarms_per_hour
+,mean,std,mean,std,mean,std,mean,std,mean,std
+detector,,,,,,,,,,
+Isolation Forest,0.0,0.0,0.0,0.0,0.0,0.0,0.002,0.003,0.081,0.108
+Mahalanobis,0.942,0.013,0.914,0.01,0.928,0.009,0.02,0.005,0.065,0.126
+Rule-based,0.945,0.01,0.547,0.007,0.693,0.006,0.011,0.002,0.024,0.055

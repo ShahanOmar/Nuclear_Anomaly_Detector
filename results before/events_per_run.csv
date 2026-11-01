@@ -1,0 +1,91 @@
+detector,seed,fault,detected,delay_min
+Rule-based,100,Coolant flow loss,True,6.166666666666686
+Rule-based,100,T_hot sensor drift,False,
+Rule-based,100,Small coolant leak,True,12.5
+Isolation Forest,100,Coolant flow loss,False,
+Isolation Forest,100,T_hot sensor drift,False,
+Isolation Forest,100,Small coolant leak,False,
+Mahalanobis,100,Coolant flow loss,True,4.5
+Mahalanobis,100,T_hot sensor drift,True,16.33333333333337
+Mahalanobis,100,Small coolant leak,True,5.833333333333371
+Rule-based,101,Coolant flow loss,True,5.833333333333314
+Rule-based,101,T_hot sensor drift,False,
+Rule-based,101,Small coolant leak,True,10.0
+Isolation Forest,101,Coolant flow loss,False,
+Isolation Forest,101,T_hot sensor drift,False,
+Isolation Forest,101,Small coolant leak,False,
+Mahalanobis,101,Coolant flow loss,True,4.833333333333314
+Mahalanobis,101,T_hot sensor drift,True,9.833333333333371
+Mahalanobis,101,Small coolant leak,True,5.0
+Rule-based,102,Coolant flow loss,True,5.333333333333314
+Rule-based,102,T_hot sensor drift,False,
+Rule-based,102,Small coolant leak,True,12.666666666666629
+Isolation Forest,102,Coolant flow loss,False,
+Isolation Forest,102,T_hot sensor drift,False,
+Isolation Forest,102,Small coolant leak,False,
+Mahalanobis,102,Coolant flow loss,True,4.833333333333314
+Mahalanobis,102,T_hot sensor drift,True,11.166666666666629
+Mahalanobis,102,Small coolant leak,True,4.833333333333371
+Rule-based,103,Coolant flow loss,True,4.833333333333314
+Rule-based,103,T_hot sensor drift,False,
+Rule-based,103,Small coolant leak,True,13.5
+Isolation Forest,103,Coolant flow loss,False,
+Isolation Forest,103,T_hot sensor drift,False,
+Isolation Forest,103,Small coolant leak,False,
+Mahalanobis,103,Coolant flow loss,True,3.6666666666666856
+Mahalanobis,103,T_hot sensor drift,True,10.166666666666629
+Mahalanobis,103,Small coolant leak,True,6.0
+Rule-based,104,Coolant flow loss,True,4.833333333333314
+Rule-based,104,T_hot sensor drift,False,
+Rule-based,104,Small coolant leak,True,16.83333333333337
+Isolation Forest,104,Coolant flow loss,False,
+Isolation Forest,104,T_hot sensor drift,False,
+Isolation Forest,104,Small coolant leak,False,
+Mahalanobis,104,Coolant flow loss,True,4.166666666666686
+Mahalanobis,104,T_hot sensor drift,True,13.833333333333371
+Mahalanobis,104,Small coolant leak,True,5.833333333333371
+Rule-based,105,Coolant flow loss,True,5.166666666666686
+Rule-based,105,T_hot sensor drift,False,
+Rule-based,105,Small coolant leak,True,12.0
+Isolation Forest,105,Coolant flow loss,False,
+Isolation Forest,105,T_hot sensor drift,False,
+Isolation Forest,105,Small coolant leak,False,
+Mahalanobis,105,Coolant flow loss,True,3.6666666666666856
+Mahalanobis,105,T_hot sensor drift,True,8.333333333333371
+Mahalanobis,105,Small coolant leak,True,6.333333333333371
+Rule-based,106,Coolant flow loss,True,5.166666666666686
+Rule-based,106,T_hot sensor drift,False,
+Rule-based,106,Small coolant leak,True,12.5
+Isolation Forest,106,Coolant flow loss,False,
+Isolation Forest,106,T_hot sensor drift,False,
+Isolation Forest,106,Small coolant leak,False,
+Mahalanobis,106,Coolant flow loss,True,4.5
+Mahalanobis,106,T_hot sensor drift,True,12.0
+Mahalanobis,106,Small coolant leak,True,5.833333333333371
+Rule-based,107,Coolant flow loss,True,5.666666666666686
+Rule-based,107,T_hot sensor drift,False,
+Rule-based,107,Small coolant leak,True,12.166666666666629
+Isolation Forest,107,Coolant flow loss,False,
+Isolation Forest,107,T_hot sensor drift,False,
+Isolation Forest,107,Small coolant leak,False,
+Mahalanobis,107,Coolant flow loss,True,4.833333333333314
+Mahalanobis,107,T_hot sensor drift,True,14.5
+Mahalanobis,107,Small coolant leak,True,6.166666666666629
+Rule-based,108,Coolant flow loss,True,5.666666666666686
+Rule-based,108,T_hot sensor drift,False,
+Rule-based,108,Small coolant leak,True,12.166666666666629
+Isolation Forest,108,Coolant flow loss,False,
+Isolation Forest,108,T_hot sensor drift,False,
+Isolation Forest,108,Small coolant leak,False,
+Mahalanobis,108,Coolant flow loss,True,4.5
+Mahalanobis,108,T_hot sensor drift,True,10.833333333333371
+Mahalanobis,108,Small coolant leak,True,5.166666666666629
+Rule-based,109,Coolant flow loss,True,5.333333333333314
+Rule-based,109,T_hot sensor drift,False,
+Rule-based,109,Small coolant leak,True,9.333333333333371
+Isolation Forest,109,Coolant flow loss,False,
+Isolation Forest,109,T_hot sensor drift,False,
+Isolation Forest,109,Small coolant leak,False,
+Mahalanobis,109,Coolant flow loss,True,3.8333333333333144
+Mahalanobis,109,T_hot sensor drift,True,11.5
+Mahalanobis,109,Small coolant leak,True,7.0

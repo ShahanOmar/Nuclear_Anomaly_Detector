@@ -1,0 +1,10 @@
+fault,detector,detection_rate,median_delay_min
+Coolant flow loss,Isolation Forest,0.0,
+Coolant flow loss,Mahalanobis,1.0,4.5
+Coolant flow loss,Rule-based,1.0,5.33
+Small coolant leak,Isolation Forest,0.0,
+Small coolant leak,Mahalanobis,1.0,5.83
+Small coolant leak,Rule-based,1.0,12.33
+T_hot sensor drift,Isolation Forest,0.0,
+T_hot sensor drift,Mahalanobis,1.0,11.33
+T_hot sensor drift,Rule-based,0.0,
